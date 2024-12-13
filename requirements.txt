@@ -2,4 +2,5 @@ Flask
 opencv-python
 imutils
 pygame
-dlib @ https://raw.githubusercontent.com/RohitPatil44/dlib-package/main/dlib-19.24.1-cp311-cp311-win_amd64.whl
+dlib @ https://github.com/RohitPatil44/dlib-package/raw/main/dlib-19.24.1-cp311-cp311-win_amd64.whl
+
