@@ -1,6 +1,7 @@
-Flask
 opencv-python
 imutils
+scipy
+cmake
+dlib
+Flask
 pygame
-dlib @ https://github.com/RohitPatil44/dlib-package/raw/main/dlib-19.24.1-cp311-cp311-win_amd64.whl
-
