@@ -1,7 +1,4 @@
 {
-  "build": {
-    "builder": "python"
-  },
   "deploy": {
     "start": "python app.py"
   }
